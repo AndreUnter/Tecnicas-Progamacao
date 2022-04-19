@@ -1,0 +1,24 @@
+{
+  "name": "tecnicas-progamacao",
+  "version": "1.0.0",
+  "description": "Projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreUnter/Tecnicas-Progamacao.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "npm"
+],
+  "author": "André",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreUnter/Tecnicas-Progamacao/issues"
+  },
+  "homepage": "https://github.com/AndreUnter/Tecnicas-Progamacao#readme"
+}
